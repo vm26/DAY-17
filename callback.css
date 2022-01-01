@@ -1,0 +1,23 @@
+div{
+    text-align: center;
+    margin-top:200px;
+    color:white;
+}
+body{
+   
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq3GBtl1FinQ5Qpz0DM6UHdAHgi0SfME_qPQ&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button{
+    background:linear-gradient(rgb(233, 109, 92),rgb(163, 212, 82));
+    border:1px solid grey;
+    border-radius: 5px;
+    width:100px;
+    height:50px;
+    color:white;
+    font-weight: bold;
+}
+.final{
+    color:red;
+}
